@@ -1,0 +1,33 @@
+#form {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#form-wrapper {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+input {
+    margin: 10px; 
+}
+
+#output {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#pgraph {
+    padding: 12px;
+    display: none;
+    width: 65%;
+    text-align: center;
+    border: 1px black solid;
+}
