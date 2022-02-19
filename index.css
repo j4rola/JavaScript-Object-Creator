@@ -24,6 +24,12 @@ input {
     flex-direction: column;
 }
 
+#p-wrap {
+    display: flex; 
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
 #pgraph {
     padding: 20px;
     display: none;
